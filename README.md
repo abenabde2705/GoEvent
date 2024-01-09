@@ -28,15 +28,16 @@ Développement et Conception d’une application web de gestion d’évènements
 
 ### Frontend Vue.js (projectwebvuejs)
 
-1.**Installation des dépendances avec npm:**
-  
-  npm install 
+1. **Installation des dépendances avec npm:**
+   ```bash
+   npm install
 
-2.**Lancement du serveur de développement:**
-  
-  npm run dev
+2. **Lancement du serveur de développement:**
+   ```bash
+   npm run dev
 
-3.ATTENTION ! : 
+### ATTENTION ! : 
+
 Problème avec l'API Vue.js:
 
 Actuellement, il y a un problème avec l'upload et la récupération des données via l'API Vue.js.
