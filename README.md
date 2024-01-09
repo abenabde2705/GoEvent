@@ -27,15 +27,16 @@ Développement et Conception d’une application web de gestion d’évènements
    http://localhost:8000/admin pour accéder au Dashboard Symfony où vous pouvez gérer les événements.
 
 ### Frontend Vue.js (projectwebvuejs)
-1.Installation des dépendances avec npm:
-  ```bash
-  npm install
 
-2.Lancement du serveur de développement:
-  ```bash
+1.**Installation des dépendances avec npm:**
+  
+  npm install 
+
+2.**Lancement du serveur de développement:**
+  
   npm run dev
 
-### ATTENTION ! : 
+3.ATTENTION ! : 
 Problème avec l'API Vue.js:
 
 Actuellement, il y a un problème avec l'upload et la récupération des données via l'API Vue.js.
